@@ -6,4 +6,10 @@
 - Analyze document
 - Choose CI/CD pipeline failure investigation task
 - Create PRDs for requirements
+- PRDs should be saved in docs folder with
+  - docs/{task}.prd
+  - PRD should have overview
+  - requirements
+  - suggested tach stach
+  - other helpful suggestions
 
